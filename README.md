@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColinSchmale
-- 👀 I’m interested in Flutter, Android and iOS
+- 👀 I’m interested in Flutter and Android
 - 🌱 I’m currently learning new Flutter stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter @ColinSchmale
