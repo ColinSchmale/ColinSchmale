@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ColinSchmale
-- 👀 I’m interested in Flutter and Android
-- 🌱 I’m currently learning new Flutter stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Twitter @ColinSchmale
+I’m a passionate Android and Flutter developer.
+This is my private account for apps I’ve built in my spare time.
 
 <!---
 ColinSchmale/ColinSchmale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
